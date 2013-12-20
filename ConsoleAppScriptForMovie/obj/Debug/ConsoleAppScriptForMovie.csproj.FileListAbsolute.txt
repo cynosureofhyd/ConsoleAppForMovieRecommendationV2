@@ -1,0 +1,12 @@
+c:\users\prashmaya\documents\visual studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\ConsoleAppScriptForMovie.exe
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\EntityFramework.dll
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\ConsoleAppScriptForMovie.exe.config
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\EntityFramework.xml
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\obj\Debug\ConsoleAppScriptForMovie.exe
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\obj\Debug\ConsoleAppScriptForMovie.pdb
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\bin\Debug\ConsoleAppScriptForMovie.pdb
+C:\Users\PrashMaya\Documents\Visual Studio 2013\Projects\ConsoleAppScriptForMovie\ConsoleAppScriptForMovie\obj\Debug\ConsoleAppScriptForMovie.csprojResolveAssemblyReference.cache
